@@ -1,0 +1,28 @@
+h1 {
+    color: #bed539;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 40px;
+}  
+
+#about-me {
+    color:rgb(43, 101, 177);
+}
+
+#projects, header p
+{
+    background-color: #e2e8c5;
+}
+
+body {
+    background-image: url('../images/background.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+img {
+    display: block;
+    box-shadow: 5px 5px 2px grey;
+}
